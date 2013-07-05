@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiApprox", "PiApprox.csproj", "{BC6025B0-D7E9-4FB0-8E34-70729E2B6DE9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.us.local/tfs/migrate08
+		SccProjectUniqueName0 = PiApprox.csproj
+		SccProjectName0 = .
+		SccAuxPath0 = http://tfs.us.local/tfs/migrate08
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6025B0-D7E9-4FB0-8E34-70729E2B6DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6025B0-D7E9-4FB0-8E34-70729E2B6DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6025B0-D7E9-4FB0-8E34-70729E2B6DE9}.Debug|x64.ActiveCfg = Debug|x64
+		{BC6025B0-D7E9-4FB0-8E34-70729E2B6DE9}.Debug|x64.Build.0 = Debug|x64
+		{BC6025B0-D7E9-4FB0-8E34-70729E2B6DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6025B0-D7E9-4FB0-8E34-70729E2B6DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC6025B0-D7E9-4FB0-8E34-70729E2B6DE9}.Release|x64.ActiveCfg = Release|x64
+		{BC6025B0-D7E9-4FB0-8E34-70729E2B6DE9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
